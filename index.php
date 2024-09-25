@@ -1,3 +1,3 @@
 <?php
 
-Now it is a website!
+print 'Now it is a website!';
